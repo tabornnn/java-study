@@ -1,0 +1,6 @@
+2021/12/16 18:10:22.836 [main] TRACE  Logger Start
+2021/12/16 18:10:22.838 [main] DEBUG  Logger debug
+2021/12/16 18:10:22.839 [main] INFO   Logger info=1
+2021/12/16 18:10:22.840 [main] WARN   Logger warn=1,=2
+2021/12/16 18:10:22.840 [main] ERROR  Logger error=null
+2021/12/16 18:10:22.840 [main] TRACE  Logger End
